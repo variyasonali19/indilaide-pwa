@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/variyasonali19/indilaide-pwa.git",
+  "author": "variyasonali19 <treadingfun@gmail.com>",
+  "license": "MIT"
 }
